@@ -8,10 +8,15 @@ The current shared experience of BattleTech and BEXT largely and very genericall
 3.	***Late Game*** is the power game. It often revolves around Heavy and Assault ‘Mechs, though a mixed force with good technology is often the better bet. Enemies will drop massive alpha strikes but are not as agile as the player. This can send you seeking the Clans for a challenge or hunting down rare Star League-era relics. However, the generally lower risk, high reward ***Late Game*** setting eventually yields ever diminishing returns for player satisfaction, and that’s when it’s time to start a new career,
 
 So, with all that in mind and a development map reaching forward decades for the Lore Packs, I got to thinking about what would encourage someone to play right through with the one company, and from that came the ideas for the following mods, which I’ll be developing alongside the Lore Packs:
+
 •	Company Decorations [https://github.com/mattacma-cloud/Decorations]
+
 •	No Easy Fix [https://github.com/mattacma-cloud/No-Easy-Fix]
+
 •	Family Business – In development
+
 •	Rusted Metal – In development
+
 •	Hard to Resolve – In development
 
 My hope is to create a series of mods that extend the mid-game in a way that is not overwhelming, but keeps a player deeply engaged with their crew, having to keep a close eye on finances as materials, the Argo, and crew events effect cash flow, and always with an eye on what equipment they need as they move forward. By making that which was common and easily obtained in the late game harder to come by, the mid-game can extend for longer, and for the masochistic amongst us, extend the early game significantly as well.
@@ -24,34 +29,63 @@ This also means that risk v reward, in terms of people, becomes very important, 
 
 **Mod Structure**
 ARC A — Blood and Bunks — 9 events, 40 variants, 96 outcomes
+
 ARC B — Mess-Hall Memory — 4 events, 12 variants, 38 outcomes
+
 ARC C — The Quiet Compact — 7 events, 22 variants, 151 outcomes
+
 ARC D — Kin in the Sphere — 6 events, 18 variants, 37 outcomes
+
 ARC E — Empty Bunk — 4 events, 12 variants, 27 outcomes
+
 ARC F — Hangar Lights — 3 events, 9 variants, 17 outcomes
+
 ARC G — The Other Chair — 4 events, 12 variants, 19 outcomes
+
 ARC H — The Ghosts Who Haunt Us — 4 events, 12 variants, 15 outcomes
+
 ARC I — Packing the Kit — 6 events, 15 variants, 15 outcomes
+
 ARC J — Favourite Aunt / Uncle — 3 events, 8 variants, 6 outcomes
+
 ARC K — Cloth and Cockpit — 1 event, 3 variants, 3 outcomes
+
 ARC L — The Will — 2 events, 6 variants, 6 outcomes
+
 ARC M — Iron and Favour — 1 event, 3 variants, 5 outcomes
+
 ARC N — Sibling Rivalry — 3 events, 6 variants, 12 outcomes
+
 ARC O — Dragoon Debt — 2 events, 5 variants, 6 outcomes
+
 ARC P — Godmother Kamea — 2 events, 6 variants, 6 outcomes
+
 ARC Q — First Kill — 2 events, 5 variants, 8 outcomes
+
 ARC R — Medical Discharge — 2 events, 5 variants, 5 outcomes
+
 ARC S — Captured / Returned — 2 events, 6 variants, 5 outcomes
+
 ARC T — Clan Bondsman — 4 events, 10 variants, 13 outcomes
+
 ARC U — Company Rename on Succession — 1 event, 3 variants, 3 outcomes
+
 ARC V — Found Birth Parents — 2 events, 6 variants, 6 outcomes
+
 ARC W — Love Letters — 2 events, 5 variants, 5 outcomes
+
 ARC X — Heir Romance — 2 events, 5 variants, 6 outcomes
+
 ARC Y — Child Needs Help — 2 events, 5 variants, 6 outcomes
+
 ARC Z — Here to Help — 2 events, 5 variants, 7 outcomes
+
 ARC AA — The Other Child — 2 events, 6 variants, 7 outcomes
+
 ARC AB — The Debt — 1 event, 3 variants, 3 outcomes
+
 ARC AC — False Colours — 1 event, 3 variants, 3 outcomes
+
 ARC AD — Yang's Apprentice — 1 event, 3 variants, 3 outcomes
 
 Family Business will contain 87 events, with 259 event variants, and 539 possible event outcomes.
